@@ -62,11 +62,8 @@
 	
 		<!-- Faith -->
 	<entry id="str_skill_mode_info_sanaefaith0"><![CDATA[]]></entry>
-    <entry id="str_skill_mode_info_sanaefaith1"><![CDATA[123456789B]]></entry>
-	<entry id="str_skill_mode_info_sanaefaith2"><![CDATA[{colour_start|invisible}​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​{colour_end}]]></entry>
-	<!--<entry id="str_skill_mode_info_sanaefaith0"><![CDATA[{colour_start|invisible}​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​{colour_end}]]></entry>
-    <entry id="str_skill_mode_info_sanaefaith1"><![CDATA[{colour_start|invisible}​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​{colour_end}]]></entry>
-	<entry id="str_skill_mode_info_sanaefaith2"><![CDATA[{colour_start|invisible}​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​{colour_end}]]></entry>-->
+    <entry id="str_skill_mode_info_sanaefaith1"><![CDATA[]]></entry>
+	<entry id="str_skill_mode_info_sanaefaith2"><![CDATA[]]></entry>
 	<entry id="actor_mode_name_sanaefaith0"><![CDATA[Faith 0]]></entry>
 	<entry id="actor_mode_name_sanaefaith1"><![CDATA[Faith 1]]></entry>
 	<entry id="actor_mode_name_sanaefaith2"><![CDATA[Faith 2]]></entry>
@@ -75,7 +72,9 @@
 	<entry id="buff_stat_tooltip_upgrade_discount_sanae_f1or2_desk"><![CDATA[If {colour_start|sanaefaith}Faith{colour_end} above 0:]]></entry>
 	<entry id="buff_stat_tooltip_upgrade_discount_sanae_f2_desk"><![CDATA[If {colour_start|sanaefaith}Faith{colour_end} 2:]]></entry>
 	<entry id="buff_stat_tooltip_upgrade_discount_sanae_setfaith0_desk"><![CDATA[Consume all {colour_start|sanaefaith}Faith{colour_end}]]></entry>
-	<entry id="buff_stat_tooltip_upgrade_discount_sanae_plus1faith_desk"><![CDATA[+1 {colour_start|sanaefaith}Faith{colour_end}{colour_start|invisible}​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​{colour_end}]]></entry>
+	<entry id="buff_stat_tooltip_upgrade_discount_sanae_plus1faith_desk"><![CDATA[+1 {colour_start|sanaefaith}Faith{colour_end}​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​]]></entry>
+	<entry id="buff_stat_tooltip_upgrade_discount_sanae_cleanup_desk"><![CDATA[​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​]]></entry>
+	<entry id="buff_stat_tooltip_upgrade_discount_sanae_inv_cleanup_desk"><![CDATA[{colour_start|invisible}​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​{colour_end}]]></entry>
 
 
 		<!-- Trinkets and Bobbles -->

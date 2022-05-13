@@ -7,7 +7,9 @@ effect: .name "Sanae SetFaith 2" .target "performer" .set_mode sanaefaith2 .chan
 
 // Custom Tooltips
 effect: .name "Sanae SetFaith 0 Desk" 		.target "performer" .skill_instant true .buff_ids "sanae_setfaith0_Desk" .apply_once true .on_hit true .on_miss true
-effect: .name "Sanae SetFaith Null Desk" 	.target "performer" .skill_instant true .buff_ids "sanae_setfaithnull_Desk" .apply_once true .on_hit true .on_miss true
+effect: .name "Sanae Cleanup Desk" 	.target "performer" .skill_instant true .buff_ids "sanae_cleanup_Desk" .apply_once true .on_hit true .on_miss true
+effect: .name "Sanae INV Cleanup Desk" 	.target "performer" .skill_instant true .buff_ids "sanae_inv_cleanup_Desk" .apply_once true .on_hit true .on_miss true
+
 
 
 ////// Skills

@@ -13,8 +13,10 @@ armour: .name "sanae_armour_4" .def 30% .prot 0 .hp 35 .spd 0 .upgradeRequiremen
 
 // Shooting Star
 combat_skill: .id "s_miracle_star" .level 0 .type "ranged" .atk 85%  .dmg 0% .crit 6% .launch 432 .target 1234 .is_crit_valid True .valid_modes sanaefaith0 sanaefaith1 sanaefaith2	.effect "Sanae Plus1 Faith Desk"
+combat_skill: .id "s_miracle_star" .level 0 .type "ranged" .atk 85%  .dmg 0% .crit 6% .launch 432 .target 1234 .is_crit_valid True .valid_modes sanaefaith0 sanaefaith1 sanaefaith2	.effect "Sanae Cleanup Desk" "Sanae Cleanup Desk" "Sanae Cleanup Desk" "Sanae Cleanup Desk" "Sanae Cleanup Desk" "Sanae Cleanup Desk"
 combat_skill: .id "s_miracle_star" .level 0 .type "ranged" .atk 85%  .dmg 0% .crit 6% .launch 432 .target 1234 .is_crit_valid True .valid_modes sanaefaith0 sanaefaith1 sanaefaith2	.sanaefaith0_effects "Sanae SetFaith 1"
 combat_skill: .id "s_miracle_star" .level 0 .type "ranged" .atk 85%  .dmg 0% .crit 6% .launch 432 .target 1234 .is_crit_valid True .valid_modes sanaefaith0 sanaefaith1 sanaefaith2	.sanaefaith1_effects "Sanae SetFaith 2"
+combat_skill: .id "s_miracle_star" .level 0 .type "ranged" .atk 85%  .dmg 0% .crit 6% .launch 432 .target 1234 .is_crit_valid True .valid_modes sanaefaith0 sanaefaith1 sanaefaith2	.sanaefaith2_effects "Sanae INV Cleanup Desk"
 
 
 combat_skill: .id "s_miracle_star" .level 1 .type "ranged" .atk 90%  .dmg 0% .crit 7% .launch 432 .target 1234 .is_crit_valid True .valid_modes sanaefaith0 sanaefaith1 sanaefaith2	.effect "Sanae Plus1 Faith Desk"
