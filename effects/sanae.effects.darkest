@@ -7,14 +7,17 @@ effect: .name "Sanae SetFaith 2" .target "performer" .set_mode sanaefaith2 .chan
 
 // Custom Tooltips
 effect: .name "Sanae SetFaith 0 Desk" 		.target "performer" .skill_instant true .buff_ids "sanae_setfaith0_Desk" .apply_once true .on_hit true .on_miss true
-effect: .name "Sanae Cleanup Desk" 	.target "performer" .skill_instant true .buff_ids "sanae_cleanup_Desk" .apply_once true .on_hit true .on_miss true
+effect: .name "Sanae Cleanup Desk" 	.target "performer" .skill_instant true .buff_ids "sanae_cleanup_Desk" .on_hit true .on_miss true
 effect: .name "Sanae INV Cleanup Desk" 	.target "performer" .skill_instant true .buff_ids "sanae_inv_cleanup_Desk" .apply_once true .on_hit true .on_miss true
+effect: .name "Sanae SS Cleanup Desk" 	.target "performer" .skill_instant true .buff_ids "sanae_ss_cleanup_Desk" .apply_once true .on_hit true .on_miss true
+
 
 
 
 ////// Skills
 //// Shooting Star
-effect: .name "Sanae Plus1 Faith Desk" 		.target "performer" .skill_instant true .buff_ids "sanae_plus1faith_Desk" .apply_once true .on_hit true .on_miss true
+effect: .name "Sanae Plus1 Faith Desk" 		.target "performer" .skill_instant true .buff_ids "sanae_plus1faith_Desk" .on_hit true .on_miss true
+
 
 //// Gather Faith
 //tooltips
@@ -34,11 +37,11 @@ effect: .name "Sanae Faith Destress 5" .target "performer"  .chance 100% .healst
 
 //// Divine Wind
 // Heal Tooltips
-effect: .name "Divine Wind L1 Desk" .target "performer" .skill_instant true .buff_ids "sanae_setfaith0_Desk" "sanae_f1or2_Desk" "sanae_dotclear_Desk" "sanae_f2_Desk" "divine_wind_partyheal_l1_Desk" .apply_once true .on_hit true .on_miss true
-effect: .name "Divine Wind L2 Desk" .target "performer" .skill_instant true .buff_ids "sanae_setfaith0_Desk" "sanae_f1or2_Desk" "sanae_dotclear_Desk" "sanae_f2_Desk" "divine_wind_partyheal_l2_Desk" .apply_once true .on_hit true .on_miss true
-effect: .name "Divine Wind L3 Desk" .target "performer" .skill_instant true .buff_ids "sanae_setfaith0_Desk" "sanae_f1or2_Desk" "sanae_dotclear_Desk" "sanae_f2_Desk" "divine_wind_partyheal_l3_Desk" .apply_once true .on_hit true .on_miss true
-effect: .name "Divine Wind L4 Desk" .target "performer" .skill_instant true .buff_ids "sanae_setfaith0_Desk" "sanae_f1or2_Desk" "sanae_dotclear_Desk" "sanae_f2_Desk" "divine_wind_partyheal_l4_Desk" .apply_once true .on_hit true .on_miss true
-effect: .name "Divine Wind L5 Desk" .target "performer" .skill_instant true .buff_ids "sanae_setfaith0_Desk" "sanae_f1or2_Desk" "sanae_dotclear_Desk" "sanae_f2_Desk" "divine_wind_partyheal_l5_Desk" .apply_once true .on_hit true .on_miss true
+effect: .name "Divine Wind L1 Desk" .target "performer" .skill_instant true .buff_ids "sanae_dotclear_Desk" "divine_wind_partyheal_l1_Desk" "sanae_setfaith0_Desk" .apply_once true .on_hit true .on_miss true
+effect: .name "Divine Wind L2 Desk" .target "performer" .skill_instant true .buff_ids "sanae_dotclear_Desk" "divine_wind_partyheal_l2_Desk" "sanae_setfaith0_Desk" .apply_once true .on_hit true .on_miss true
+effect: .name "Divine Wind L3 Desk" .target "performer" .skill_instant true .buff_ids "sanae_dotclear_Desk" "divine_wind_partyheal_l3_Desk" "sanae_setfaith0_Desk" .apply_once true .on_hit true .on_miss true
+effect: .name "Divine Wind L4 Desk" .target "performer" .skill_instant true .buff_ids "sanae_dotclear_Desk" "divine_wind_partyheal_l4_Desk" "sanae_setfaith0_Desk" .apply_once true .on_hit true .on_miss true
+effect: .name "Divine Wind L5 Desk" .target "performer" .skill_instant true .buff_ids "sanae_dotclear_Desk" "divine_wind_partyheal_l5_Desk" "sanae_setfaith0_Desk" .apply_once true .on_hit true .on_miss true
 
 
 // Healing

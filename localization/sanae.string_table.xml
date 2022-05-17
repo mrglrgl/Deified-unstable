@@ -74,7 +74,8 @@
 	<entry id="buff_stat_tooltip_upgrade_discount_sanae_setfaith0_desk"><![CDATA[Consume all {colour_start|sanaefaith}Faith{colour_end}]]></entry>
 	<entry id="buff_stat_tooltip_upgrade_discount_sanae_plus1faith_desk"><![CDATA[+1 {colour_start|sanaefaith}Faith{colour_end}​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​]]></entry>
 	<entry id="buff_stat_tooltip_upgrade_discount_sanae_cleanup_desk"><![CDATA[​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​]]></entry>
-	<entry id="buff_stat_tooltip_upgrade_discount_sanae_inv_cleanup_desk"><![CDATA[{colour_start|invisible}​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​{colour_end}]]></entry>
+	<entry id="buff_stat_tooltip_upgrade_discount_sanae_ss_cleanup_desk"><![CDATA[  ]]></entry>
+	<entry id="buff_stat_tooltip_upgrade_discount_sanae_inv_cleanup_desk"><![CDATA[   ]]></entry>
 
 
 		<!-- Trinkets and Bobbles -->
@@ -101,13 +102,16 @@
 {colour_start|stress}Stress{colour_end} -7]]></entry>
 				
 		<!-- Divine Wind -->
-	<entry id="buff_stat_tooltip_upgrade_discount_sanae_dotclear_desk"><![CDATA[Cure {colour_start|blight}Blight{colour_end}/{colour_start|bleed}Bleed{colour_end}]]></entry>
+	<entry id="buff_stat_tooltip_upgrade_discount_sanae_dotclear_desk"><![CDATA[If {colour_start|sanaefaith}Faith{colour_end} 1/2: Cure {colour_start|blight}Blight{colour_end}/{colour_start|bleed}Bleed{colour_end}]]></entry>
 	
-	<entry id="buff_stat_tooltip_upgrade_discount_divine_wind_partyheal_l1_desk"><![CDATA[{colour_start|healhp}Heal{colour_end} Other Heroes 3-4]]></entry>
-	<entry id="buff_stat_tooltip_upgrade_discount_divine_wind_partyheal_l2_desk"><![CDATA[{colour_start|healhp}Heal{colour_end} Other Heroes 4-5]]></entry>
-	<entry id="buff_stat_tooltip_upgrade_discount_divine_wind_partyheal_l3_desk"><![CDATA[{colour_start|healhp}Heal{colour_end} Other Heroes 5-6]]></entry>
-	<entry id="buff_stat_tooltip_upgrade_discount_divine_wind_partyheal_l4_desk"><![CDATA[{colour_start|healhp}Heal{colour_end} Other Heroes 6-7]]></entry>
-	<entry id="buff_stat_tooltip_upgrade_discount_divine_wind_partyheal_l5_desk"><![CDATA[{colour_start|healhp}Heal{colour_end} Other Heroes 7-8]]></entry>
+	<entry id="buff_stat_tooltip_upgrade_discount_divine_wind_partyheal_l1_desk"><![CDATA[If {colour_start|sanaefaith}Faith{colour_end} 2: {colour_start|healhp}Heal{colour_end} Other Heroes 3-4]]></entry>
+	<entry id="buff_stat_tooltip_upgrade_discount_divine_wind_partyheal_l2_desk"><![CDATA[If {colour_start|sanaefaith}Faith{colour_end} 2: {colour_start|healhp}Heal{colour_end} Other Heroes 4-5]]></entry>
+	<entry id="buff_stat_tooltip_upgrade_discount_divine_wind_partyheal_l3_desk"><![CDATA[If {colour_start|sanaefaith}Faith{colour_end} 2: {colour_start|healhp}Heal{colour_end} Other Heroes 5-6]]></entry>
+	<entry id="buff_stat_tooltip_upgrade_discount_divine_wind_partyheal_l4_desk"><![CDATA[If {colour_start|sanaefaith}Faith{colour_end} 2: {colour_start|healhp}Heal{colour_end} Other Heroes 6-7]]></entry>
+	<entry id="buff_stat_tooltip_upgrade_discount_divine_wind_partyheal_l5_desk"><![CDATA[If {colour_start|sanaefaith}Faith{colour_end} 2: {colour_start|healhp}Heal{colour_end} Other Heroes 7-8]]></entry>
+	
+	<entry id="buff_stat_tooltip_upgrade_discount_sanae_setfaith0_desk"><![CDATA[Consume all {colour_start|sanaefaith}Faith{colour_end}​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​]]></entry>
+
 	
 	
 		<!-- Seas Parting -->
